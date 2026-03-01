@@ -1,0 +1,15 @@
+.cart-summary-main-bg-container {
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;
+}
+.summary-card-container {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  color: #616e7c;
+  padding: 20px;
+}
+.total-price-color{
+  color: #171f46 !important;
+}
